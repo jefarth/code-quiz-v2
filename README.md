@@ -21,7 +21,7 @@ The following necessary dependencies must be installed to run the application pr
 
 ## Usage
 
-To use this application: The application can be found at a live website here: .
+To use this application: The application can be found at a live website here: [https://jefarth.github.io/code-quiz-v2/](https://jefarth.github.io/code-quiz-v2/).
 
 ## License
 
