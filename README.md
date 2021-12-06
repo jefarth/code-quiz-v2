@@ -31,7 +31,6 @@ This project is licensed under the MIT License.
 
 Contributing: I have made all current contributions to the assignment.
 
-
 ## Tests
 
 To run tests, you need to run the following command: The testing opperation included running the code in the browser with constant refreshing to see if any errors or bugs arose in the process.
