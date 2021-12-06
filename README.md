@@ -4,7 +4,7 @@
 
 ## Description
 
-This project was an assignment going over web API's for a Web Development Boot Camp. This project is a timed coding assessment designed to help new applicants get used to completing multiple-choice questions and interactive coding challenges as part of an interview process. The app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript.
+This project was an assignment going over web API's for a Web Development Boot Camp. This is a project I am recreating after completion of the Boot Camp to re-establish the learned skills from the activity and improve upon the application with the advanced skills I now have. The application is a timed coding assessment designed to help new applicants get used to completing multiple-choice questions and interactive coding challenges as part of an interview process. The app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript.
 
 ## Table of Contents
 
